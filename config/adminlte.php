@@ -325,8 +325,13 @@ return [
             'icon' => 'fas fa-fw fa-user',
         ],
         [
-            'text' => 'Punto 2',
-            'url'  => 'admin/settings',
+            'text' => 'Marcas',
+            'url'  => '/DelgadoCeron/marcas',
+            'icon' => 'fas fa-fw fa-lock',
+        ],
+        [
+            'text' => 'Tienda',
+            'url'  => '/DelgadoCeron/presentacion',
             'icon' => 'fas fa-fw fa-lock',
         ],
         // [
