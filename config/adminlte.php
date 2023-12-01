@@ -327,12 +327,12 @@ return [
         [
             'text' => 'Marcas',
             'url'  => '/DelgadoCeron/marcas',
-            'icon' => 'fas fa-fw fa-lock',
+            'icon' => 'fas fa-futbol',
         ],
         [
             'text' => 'Tienda',
             'url'  => '/DelgadoCeron/presentacion',
-            'icon' => 'fas fa-fw fa-lock',
+            'icon' => 'fas fa-store',
         ],
         // [
         //     'text'    => 'multilevel',
