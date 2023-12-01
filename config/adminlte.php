@@ -253,7 +253,7 @@ return [
     */
 
     'use_route_url' => false,
-    'dashboard_url' => 'home',
+    'dashboard_url' => '',
     'logout_url' => 'logout',
     'login_url' => 'login',
     'register_url' => 'register',
@@ -320,9 +320,9 @@ return [
         // ],
         // ['header' => 'account_settings'],
         [
-            'text' => 'Punto 1',
-            'url'  => 'admin/settings',
-            'icon' => 'fas fa-fw fa-user',
+            'text' => 'Articulos',
+            'url'  => '/DelgadoCeron/articulos',
+            'icon' => 'fas fa-fw fa-archive',
         ],
         [
             'text' => 'Marcas',
