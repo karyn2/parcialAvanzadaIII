@@ -67,7 +67,7 @@ class ArticuloSeeder extends Seeder
           'color' => 'Blanca',
           'preciounitario' => 90000,
           'observacion' => 'excelente calidad',
-          'foto' => 'guantes',
+          'foto' => 'gorra',
           'marca' => '1006'
          ]
             
